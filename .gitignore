@@ -1,0 +1,17 @@
+# Xcode
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+DerivedData/
+*.xcuserstate
+
+# Build
+build/
+*.app
+*.dSYM.zip
+*.dSYM
+dmg_contents/
+
+# OS
+.DS_Store
+*.swp
