@@ -6,7 +6,13 @@
 
 **[📦 下载 MiMo_AI_v1.0.dmg](https://github.com/ibigbigip/MiMoMac/releases/download/v1.0.0/MiMo_AI_v1.0.dmg)**
 
-双击 DMG 文件，将 MiMo AI 拖入 Applications 文件夹即可使用。
+### 安装步骤：
+1. 下载上面的 DMG 文件
+2. 双击打开 DMG
+3. 将 **MiMo AI** 拖入 **Applications** 文件夹
+4. 在启动台中找到 MiMo AI 打开即可使用
+
+> ⚠️ 首次打开如果提示"无法验证开发者"，请到 **系统设置 → 隐私与安全性** 中点击"仍要打开"
 
 ## 功能特点
 
@@ -21,7 +27,15 @@
 
 - macOS 13.0 (Ventura) 或更高版本
 
-## 从源码编译
+## 截图
+
+应用启动后会直接加载小米 MiMo Studio，享受完整的 AI 对话体验。
+
+---
+
+## 开发者：从源码编译
+
+如果您想自己编译或修改代码：
 
 ```bash
 # 克隆仓库
@@ -38,7 +52,7 @@ xcodegen generate
 open MiMoMac.xcodeproj
 ```
 
-在 Xcode 中按 Cmd+R 运行。
+在 Xcode 中按 Cmd+R 编译运行。
 
 ## 项目结构
 
@@ -51,10 +65,6 @@ MiMoMac/
 │   └── Assets.xcassets/       # 资源文件
 └── project.yml                # XcodeGen 配置
 ```
-
-## 截图
-
-应用启动后会直接加载小米 MiMo Studio 网页版，享受完整的 AI 对话体验。
 
 ## 技术栈
 
