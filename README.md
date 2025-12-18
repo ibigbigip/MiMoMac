@@ -9,6 +9,12 @@
 
 A native macOS client for Xiaomi MiMo AI.
 
+### Screenshot
+
+<p align="center">
+  <img src="screenshots/screenshot.png" width="700" alt="MiMo AI macOS Screenshot">
+</p>
+
 ### 🖥️ Download & Install
 
 **[📦 Download MiMo_AI_v1.0.dmg](https://github.com/ibigbigip/MiMoMac/releases/download/v1.0.0/MiMo_AI_v1.0.dmg)**
@@ -53,6 +59,12 @@ open MiMoMac.xcodeproj
 ## 🇨🇳 中文
 
 小米 MIMO 大模型 macOS 桌面客户端
+
+### 截图
+
+<p align="center">
+  <img src="screenshots/screenshot.png" width="700" alt="MiMo AI macOS 截图">
+</p>
 
 ### 🖥️ 下载安装
 
